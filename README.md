@@ -13,7 +13,6 @@ Step 3: Data Visualization
 
 Step 4: Report Design
 1. Layout and Formatting: In all my data analysis and visualization projects, I applied UI/UX principles to create visually appealing and user-friendly experiences, and this project was no exception. I used Figma to create a Power BI theme and page backgrounds with a color scheme that is consistent with IU-Bloomington's branding. In addition, I ensured that fonts were readable and conveyed a professional image.
-
 In Power BI, I designed the layout of the report pages by carefully arranging visualizations on the canvas, ensuring consistent positioning, spacing, and whitespace. I used the formatting options to control colors, fonts, data labels, legends, titles, and styles to ensure a cohesive look and to provide context and clarity to visualizations.
 2. Page Navigation: Given the presence of several report pages, each dedicated to a different aspect of analysis, I added page navigation buttons, ensuring user accessibility by allowing for transitions between distinct report pages.
 
